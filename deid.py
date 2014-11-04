@@ -1,4 +1,7 @@
 #!/usr/bin/python
+#
+# Copyright (c) 2014, Portavita BV Netherlands
+
 from collections import defaultdict
 import dataset, itertools
 import argparse, sqlite3

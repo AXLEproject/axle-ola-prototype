@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#
+# Copyright (c) 2014, Portavita BV Netherlands
 
 class Generalizer:
 	levels = None
